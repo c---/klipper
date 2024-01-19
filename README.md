@@ -1,3 +1,6 @@
+This is a project to add better support for CNC and laser machines in Klipper. Work is in progress.
+
+---
 Welcome to the Klipper project!
 
 [![Klipper](docs/img/klipper-logo-small.png)](https://www.klipper3d.org/)
